@@ -1,0 +1,12 @@
+.profile{
+    height: 400px;
+    width: 30%;
+    background-color: rgb(245, 239, 232);
+    margin: 20px;
+    
+}
+.mainp{
+    display: flex;
+    justify-content: center;
+    
+}

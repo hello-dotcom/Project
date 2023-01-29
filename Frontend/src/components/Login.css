@@ -1,0 +1,10 @@
+.Log{
+    border: 1px solid;
+    border-radius: 8px;
+    background-image: linear-gradient(rgb(11, 223, 243),rgb(208, 244, 8));
+    width: 30%;
+    height: 200px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
